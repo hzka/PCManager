@@ -1,0 +1,7 @@
+PCManger功能介绍：
+作者：Kevin He
+1.实现定时关机和开启Wifi功能。
+2.定时关机功能可正常使用；
+3.配置wifi:
+点击配置Wifi（可自由设定用户名和密码）->控制面板->网络共享中心->更改适配器设置（你会发现多了一个网卡Microsoft Virtual wlan Miniport Adapter)->右击“本地连接”->点击属性->共享->勾选“允许其他网络用户通过此计算机的Internet连接还连接”选项->选择刚才建立的虚拟网络：Microsoft Virtual wlan Miniport Adapter。
+此时点击开启，则开启。可以选择关闭。配置wifi较为麻烦，请注意。
